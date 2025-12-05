@@ -4,6 +4,7 @@ header {
   padding:20px;
   text-align:left;
   font-size:150%;
+    color:white;
     width:100%;}
 body {
   background-color:white;
@@ -17,3 +18,7 @@ footer {
   display:grid;
   grid-row: 1;
   gap:10px;}
+.texttitle {
+    text-align:center;
+    background-color:red;
+}
