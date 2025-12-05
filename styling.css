@@ -1,11 +1,13 @@
 header {
-  background-color:red;
-  margin:20px;
+  background-color:#C62828;
+  margin:0;
   padding:20px;
   text-align:left;
-  font-size:150%;}
+  font-size:150%;
+    width:100%;}
 body {
   background-color:white;
+    margin:0;
   text-align:center;}
 footer {
   background-color:red;
@@ -13,5 +15,5 @@ footer {
   padding:10px;}
 .grid {
   display:grid;
-  grid_row: 1;
+  grid-row: 1;
   gap:10px;}
