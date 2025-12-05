@@ -11,3 +11,7 @@ footer {
   background-color:red;
   margin:10px;
   padding:10px;}
+.grid {
+  display:grid;
+  grid_row: 1;
+  gap:10px;}
