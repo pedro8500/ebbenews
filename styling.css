@@ -47,7 +47,14 @@ body.dark .button {
     text-align:center;
     font-size:150%;
 }
-a {
+.link {
     color: black;
     text-decoration: inherit;
+}
+.logo {
+    color:white;
+    text-decoration:inherit;
+}
+.link2 {
+    color:blue;
 }
