@@ -21,8 +21,8 @@ body.dark .texttitle {
     color:white;
 }
 footer {
-  background-color:red;
-  margin:10px;
+  background-color:#C62828;
+  margin:0;
   padding:10px;}
 .grid {
   display:grid;
