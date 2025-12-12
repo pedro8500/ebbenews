@@ -10,7 +10,7 @@ body {
   background-color:white;
     margin:0;}
 body.dark {
-    background-color:black;
+    background-color:#202020;
     color:white;
 }
 body.dark header {
@@ -36,3 +36,10 @@ footer {
 .bilde {
     margin:0 auto;
     width:100px;}
+.button {
+    background-color:#C62828;
+    border:black solid;
+}
+body.dark .button {
+    background-color:darkred;
+}
