@@ -43,3 +43,6 @@ footer {
 body.dark .button {
     background-color:darkred;
 }
+.underskrift {
+    text-align:center;
+}
