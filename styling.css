@@ -45,4 +45,9 @@ body.dark .button {
 }
 .underskrift {
     text-align:center;
+    font-size:150%;
+}
+a {
+    color: black;
+    text-decoration: inherit;
 }
