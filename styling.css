@@ -20,6 +20,11 @@ body.dark .texttitle {
     background-color:#383838;
     color:white;
 }
+body.dark footer {
+    background-color:darkred;
+    margin:0;
+    padding:10px;
+}
 footer {
   background-color:#C62828;
   margin:0;
